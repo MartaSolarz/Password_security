@@ -1,13 +1,5 @@
 # Project - 6.04.2022
 # Is your password secure enough?
-### Hasło musi mieć: 
-### - długość przynajmniej 8 znaków;
-### - przynajmniej jedną małą literę;
-### - przynajmniej jedną wielką literę;
-### - przynajmniej jedną cyfrę;
-### - przynajmniej jeden znak specjalny.
-### Hasło nie może zawierać:
-### - białych znaków.
 
 password = input('Podaj hasło: ')
 
