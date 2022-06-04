@@ -50,5 +50,5 @@ if no_secure_enough:
 else:
     report += 'Twoje hasło jest bezpieczne.'
 
-print() # space
+print() 
 print(report)
