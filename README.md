@@ -1,4 +1,4 @@
-# Password_security #
+# Password security #
 ### Is your password secure enough? ###
 
 The program checks the security level of the password entered by the user.
