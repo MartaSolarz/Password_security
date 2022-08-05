@@ -3,7 +3,7 @@
 
 The program checks the security level of the password entered by the user.
 
-Recommended password properties:
+**Recommended password properties:**
 - at least one lower case letter;
 - at least one capital letter;
 - at least one number;
@@ -13,4 +13,10 @@ Recommended password properties:
 
 If any of the criteria are not met, a recommendation report is displayed.
 
-Author: Marta Solarz
+**Python modules used**
+
+- ```from string import punctuation```
+- ```sys```
+- ```click```
+
+*Author: Marta Solarz*
