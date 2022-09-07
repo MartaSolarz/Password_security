@@ -1,7 +1,7 @@
 # Password security #
 ### Is your password secure enough? ###
 
-*The program checks the security level of the password entered by the user.
+The program checks the security level of the password entered by the user.
 
 **Recommended password properties:**
 - at least one lower case letter;
