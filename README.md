@@ -13,10 +13,4 @@ The program checks the security level of the password entered by the user.
 
 If any of the criteria are not met, a recommendation report is displayed.
 
-**Python modules used**
-
-- ```from string import punctuation```
-- ```sys```
-- ```click```
-
 *Author: Marta Solarz*
